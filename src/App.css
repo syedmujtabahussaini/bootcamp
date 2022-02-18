@@ -1,0 +1,47 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+}
+.left {
+  width: 20vw;
+  background-color: blue;
+  height: 300px;
+  margin-left: 20px;
+}
+
+.left-down {
+  width: 20vw;
+  background-color: rgb(231, 217, 217);
+  height: 500px;
+  margin-left: 20px;
+}
+
+.left-btn {
+  width: 180px;
+  height: 30px;
+  color: blue;
+  border: 1px solid black;
+  color: wheat;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  color: black;
+}
+
+.left-btn-home {
+  margin-top: 80px;
+}
+
+.left-component {
+  width: 180px;
+  height: 60px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0px 0px 10px 10px;
+  color: blue;
+  font-size: 12px;
+  text-align: center;
+}
